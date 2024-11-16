@@ -1,0 +1,11 @@
+.bits .bit-image{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 70%;
+  gap: 0.5rem;
+}
+
+.bits .bit-images img{
+  height: 50px;
+}

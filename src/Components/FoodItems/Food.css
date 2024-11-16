@@ -1,0 +1,7 @@
+.perfectcard{
+  background-color: rgba(0, 47, 255, 0.096);
+}
+.inventory input,.inventory select{
+  padding-left: 10px;
+  padding-right: 10px;
+}

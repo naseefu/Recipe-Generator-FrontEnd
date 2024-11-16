@@ -1,0 +1,17 @@
+.home-1 h1{
+  color: white;
+  padding-bottom: 7px;
+}
+.home-1 button{
+  background-color: rgb(255, 132, 0);
+  color: white;
+  padding: 10px 20px;
+}
+body::-webkit-scrollbar{
+  scrollbar-width: none;
+}
+.home-main .how-cards{
+  border: 1px solid rgb(230, 230, 230);
+  width: 90%;
+  margin: 0 auto;
+}

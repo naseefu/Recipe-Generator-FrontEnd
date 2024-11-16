@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  font-family: "sfpro",sans-serif;
+}
+
+@font-face {
+  font-family: "sfpro";
+  src: url('./fonts/SFPRODISPLAYREGULAR.OTF')format("opentype");
 }
 
 .App-logo {
